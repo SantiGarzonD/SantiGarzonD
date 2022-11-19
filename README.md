@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Santiago Garzón Díaz
-Hi, and Welcome to my GitHub profile. Here you will projects about Python, Data Science, Artificial Inteligence and Machine Learning
+Hi, and Welcome to my GitHub profile. Here you will find projects about Python, Data Science, Artificial Inteligence and Machine Learning
 
 I am a Management Engineering Student, from Universidad Pontificia Bolivariana, from Medellín, Colombia.
 
