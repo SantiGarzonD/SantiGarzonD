@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 # Santiago Garzón Díaz
 Hi, and Welcome to my GitHub profile. Here you will find projects about Python, Data Science, Artificial Inteligence and Machine Learning
 
-I am a Management Engineering Student, from Universidad Pontificia Bolivariana, from Medellín, Colombia.
+I am a Management Engineer, from Universidad Pontificia Bolivariana, from Medellín, Colombia.
 
 About:
 
-- 🔭 Currently working as an intern in the biggest bank of my home country, Bancolombia. I am part of the Corporate Credit Risk Management Team.
+- 🔭 Currently working in the biggest bank of my home country, Bancolombia as an Data Engineer and Data Analyst. I am part of the Business Strategic Team for Natural Clients.
 
 You can find me on: 
 
